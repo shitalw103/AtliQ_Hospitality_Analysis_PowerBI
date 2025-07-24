@@ -13,3 +13,5 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+**PDF Link:-** https://app.powerbi.com/view?r=eyJrIjoiNTBlNmYzMjUtMzg5YS00OWZmLWJlMjctM2VlNGRjMDk1MTJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
